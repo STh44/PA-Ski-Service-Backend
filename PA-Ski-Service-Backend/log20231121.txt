@@ -1,0 +1,56 @@
+2023-11-21 17:53:32.800 +01:00 [INF] User profile is available. Using 'C:\Users\sebas\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-11-21 17:53:34.012 +01:00 [INF] Now listening on: https://localhost:7257
+2023-11-21 17:53:34.014 +01:00 [INF] Now listening on: http://localhost:5251
+2023-11-21 17:53:34.018 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-21 17:53:34.021 +01:00 [INF] Hosting environment: Development
+2023-11-21 17:53:34.023 +01:00 [INF] Content root path: C:\Users\sebas\OneDrive - ipso! Bildung\Dokumente\IBZ\294\PA-Ski-Service-Backend\PA-Ski-Service-Backend
+2023-11-21 17:53:34.736 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7257/swagger - -
+2023-11-21 17:53:34.871 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7257/swagger - - - 301 0 - 138.5117ms
+2023-11-21 17:53:34.926 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7257/swagger/index.html - -
+2023-11-21 17:53:35.331 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7257/swagger/index.html - - - 200 - text/html;charset=utf-8 405.1425ms
+2023-11-21 17:53:35.332 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7257/swagger/swagger-ui.css - -
+2023-11-21 17:53:35.332 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7257/_vs/browserLink - -
+2023-11-21 17:53:35.332 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7257/swagger/swagger-ui-bundle.js - -
+2023-11-21 17:53:35.332 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7257/_framework/aspnetcore-browser-refresh.js - -
+2023-11-21 17:53:35.332 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7257/swagger/swagger-ui-standalone-preset.js - -
+2023-11-21 17:53:35.389 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7257/_framework/aspnetcore-browser-refresh.js - - - 200 12376 application/javascript;+charset=utf-8 56.8665ms
+2023-11-21 17:53:35.412 +01:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2023-11-21 17:53:35.412 +01:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2023-11-21 17:53:35.417 +01:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2023-11-21 17:53:35.415 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7257/swagger/swagger-ui.css - - - 200 144929 text/css 83.9453ms
+2023-11-21 17:53:35.418 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7257/swagger/swagger-ui-standalone-preset.js - - - 200 312163 text/javascript 86.6248ms
+2023-11-21 17:53:35.419 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7257/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 86.8953ms
+2023-11-21 17:53:35.420 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7257/swagger/swagger-ui-bundle.js - - - 200 1061536 text/javascript 88.4470ms
+2023-11-21 17:53:35.532 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7257/swagger/v1/swagger.json - -
+2023-11-21 17:53:35.547 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7257/swagger/favicon-32x32.png - -
+2023-11-21 17:53:35.549 +01:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2023-11-21 17:53:35.551 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7257/swagger/favicon-32x32.png - - - 200 628 image/png 4.0380ms
+2023-11-21 17:53:35.726 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7257/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 194.5615ms
+2023-11-21 18:08:42.403 +01:00 [INF] User profile is available. Using 'C:\Users\sebas\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-11-21 18:08:42.772 +01:00 [INF] Now listening on: https://localhost:7257
+2023-11-21 18:08:42.774 +01:00 [INF] Now listening on: http://localhost:5251
+2023-11-21 18:08:42.777 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-21 18:08:42.778 +01:00 [INF] Hosting environment: Development
+2023-11-21 18:08:42.780 +01:00 [INF] Content root path: C:\Users\sebas\OneDrive - ipso! Bildung\Dokumente\IBZ\294\PA-Ski-Service-Backend\PA-Ski-Service-Backend
+2023-11-21 18:08:43.469 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7257/swagger/index.html - -
+2023-11-21 18:08:43.645 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7257/swagger/index.html - - - 200 - text/html;charset=utf-8 178.0454ms
+2023-11-21 18:08:43.648 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7257/_vs/browserLink - -
+2023-11-21 18:08:43.648 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7257/_framework/aspnetcore-browser-refresh.js - -
+2023-11-21 18:08:43.698 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7257/_framework/aspnetcore-browser-refresh.js - - - 200 12376 application/javascript;+charset=utf-8 49.4671ms
+2023-11-21 18:08:43.705 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7257/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 56.8601ms
+2023-11-21 18:08:43.796 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7257/swagger/v1/swagger.json - -
+2023-11-21 18:08:43.872 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7257/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 76.6712ms
+2023-11-21 18:13:36.686 +01:00 [INF] User profile is available. Using 'C:\Users\sebas\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2023-11-21 18:13:37.023 +01:00 [INF] Now listening on: https://localhost:7257
+2023-11-21 18:13:37.025 +01:00 [INF] Now listening on: http://localhost:5251
+2023-11-21 18:13:37.027 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-21 18:13:37.028 +01:00 [INF] Hosting environment: Development
+2023-11-21 18:13:37.030 +01:00 [INF] Content root path: C:\Users\sebas\OneDrive - ipso! Bildung\Dokumente\IBZ\294\PA-Ski-Service-Backend\PA-Ski-Service-Backend
+2023-11-21 18:13:37.423 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7257/swagger/index.html - -
+2023-11-21 18:13:37.628 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7257/swagger/index.html - - - 200 - text/html;charset=utf-8 206.1987ms
+2023-11-21 18:13:37.632 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7257/_framework/aspnetcore-browser-refresh.js - -
+2023-11-21 18:13:37.632 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7257/_vs/browserLink - -
+2023-11-21 18:13:37.650 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7257/_framework/aspnetcore-browser-refresh.js - - - 200 12376 application/javascript;+charset=utf-8 18.1612ms
+2023-11-21 18:13:37.660 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7257/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 27.7724ms
+2023-11-21 18:13:37.703 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7257/swagger/v1/swagger.json - -
+2023-11-21 18:13:37.780 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7257/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 77.2181ms
